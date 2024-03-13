@@ -1,0 +1,7 @@
+com\api\pastelaria\SpringDataJpaMappingsApplication.class
+com\api\pastelaria\repository\AdministradorRepository.class
+com\api\pastelaria\controller\AdministradorController.class
+com\api\pastelaria\model\Pastel.class
+com\api\pastelaria\controller\PastelController.class
+com\api\pastelaria\repository\PastelRepository.class
+com\api\pastelaria\model\Administrador.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.api.pastelaria.SpringDataJpaMappingsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.606 s -- in com.api.pastelaria.SpringDataJpaMappingsApplicationTests
