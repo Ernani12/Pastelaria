@@ -1,0 +1,15 @@
+
+[
+      {
+         "empName" : "ernani",
+         "empAge" : 28,
+         "address":[
+              {
+                "city" : "campinas",
+                "addressType": "Current"
+              }
+              ]
+      }
+]
+
+
