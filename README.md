@@ -12,4 +12,5 @@ JPA
 jakarta
 Postgresql
 Docker
+Front React
 
