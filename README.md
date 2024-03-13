@@ -7,3 +7,9 @@ Pedido Crud
 relaçoes de entidade entre tabelas no backend  
 puxar dados backend  
 Modelo MVC
+Marven
+JPA
+jakarta
+Postgresql
+Docker
+
