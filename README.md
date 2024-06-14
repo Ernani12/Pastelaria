@@ -1,4 +1,4 @@
-Pastelaria Backend em java e front em react 
+Pastelaria Backend em java ( Projeto E-Commerce) simulando uma pastelaria em Spring 
 
 Usuario crud    
 Administrador Crud    
@@ -12,5 +12,5 @@ JPA
 jakarta  
 Postgresql  
 Docker  
-Front React  
+
 
